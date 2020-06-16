@@ -21,8 +21,8 @@ Learn advanced python trics and tips from python experts videos
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
+- [Python Conferences](#status)
+- [Python Experts Videos](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
@@ -59,15 +59,20 @@ folder1/
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/acharles7/python-videos/blob/master/CONTRIBUTING.md) 
+and search for existing and closed issues. If your problem or idea is not addressed yet, 
+[please open a new issue](https://github.com/acharles7/python-videos/issues/new).
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Please read through our [contributing guidelines](https://github.com/acharles7/python-videos/blob/master/CONTRIBUTING.md). 
+Included are directions for opening issues, coding standards, and notes on development.
 
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
+Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by 
+[Main author](https://github.com/acharles7).
 
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+Editor preferences are available in the [editor config](https://github.com/acharles7/python-videos/blob/master/.editorconfig) 
+for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 ## Creators
 
@@ -81,6 +86,7 @@ Some Text
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Code and documentation copyright 2011-2018 the authors. Code released under the 
+[MIT License](https://github.com/acharles7/python-videos/blob/master/LICENSE.md).
 
 Enjoy :metal:
