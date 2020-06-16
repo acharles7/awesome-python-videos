@@ -3,7 +3,7 @@ Learn advanced python trics and tips from python experts videos
 
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="background: #fff;" alt="Logo" width=450 height=250>
+    <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="background: #fff;" alt="Logo">
   </a>
 </p>
   <p align="center">
