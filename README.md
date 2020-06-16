@@ -3,7 +3,7 @@ Learn advanced python trics and tips from python experts videos
 
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://img.favpng.com/9/3/25/python-programming-language-computer-programming-interpreted-language-pydev-png-favpng-GnTemnXV7NQdDPzECcn0cMfXc.jpg" alt="Logo" width=450 height=250>
+    <img src="https://img.favpng.com/9/3/25/python-programming-language-computer-programming-interpreted-language-pydev-png-favpng-GnTemnXV7NQdDPzECcn0cMfXc.jpg" style="background: #fff;" alt="Logo" width=450 height=250>
   </a>
 
   <h3 align="center">Python</h3>
