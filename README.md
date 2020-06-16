@@ -1,19 +1,21 @@
 # Python Videos
-Learn python using videos
+Learn advanced python trics and tips from python experts videos
 
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://www.justapplications.co.uk/wp-content/uploads/2019/12/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" alt="Logo" width=72 height=72>
+    <img src="https://img.favpng.com/9/3/25/python-programming-language-computer-programming-interpreted-language-pydev-png-favpng-GnTemnXV7NQdDPzECcn0cMfXc.jpg" alt="Logo" width=450 height=250>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Python</h3>
 </p>
   <p align="center">
-    Short description
+    This repository contains videos from almost all the python conferences across the world. You'll find videos related 
+    to python, machine learning and data science and videos from some of the python expert {pythonista} who teach us 
+    how to use python more effectively.
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://github.com/acharles7/python-videos/issues/new?template=bug.md">Report bug</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://github.com/acharles7/python-videos/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 
 
