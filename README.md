@@ -3,10 +3,8 @@ Learn advanced python trics and tips from python experts videos
 
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://img.favpng.com/9/3/25/python-programming-language-computer-programming-interpreted-language-pydev-png-favpng-GnTemnXV7NQdDPzECcn0cMfXc.jpg" style="background: #fff;" alt="Logo" width=450 height=250>
+    <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="background: #fff;" alt="Logo" width=450 height=250>
   </a>
-
-  <h3 align="center">Python</h3>
 </p>
   <p align="center">
     This repository contains videos from almost all the python conferences across the world. You'll find videos related 
