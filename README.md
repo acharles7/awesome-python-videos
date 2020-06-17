@@ -19,11 +19,11 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [News](#python-news)
+- [News](#news)
 - [Most Favourite](#most-favourite)
 - [Python Conferences](#python-conferences)
-- [Python Experts](#python-experts-videos)
-- [Machine Learning and Data Science](#ml-ds-videos)
+- [Python Experts](#python-experts)
+- [Machine Learning and Data Science](#machine-learning-and-data-science)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
