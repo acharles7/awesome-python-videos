@@ -1,5 +1,4 @@
 # Python Videos
-Learn advanced python trics and tips from python experts videos
 
 <p align="center">
   <a href="https://example.com/">
@@ -21,8 +20,9 @@ Learn advanced python trics and tips from python experts videos
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Python Conferences](#status)
-- [Python Experts Videos](#whats-included)
+- [Most Favourite](#most-favourite)
+- [Python Conferences](#python-conferences)
+- [Python Experts Videos](#python-experts-videos)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
@@ -37,25 +37,44 @@ Some text
 - Instruction 1
 - Instruction 2
 - Instruction 3
-
-## Status
-
-Here goes all the budgets
-
-## What's included
+## Most Favourite
 
 Some text
 
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
+- Instruction 1
+- Instruction 2
+- Instruction 3
+
+## Python Conferences
+
+Here goes all the budgets
+
+PyCon
+
+- PyCon
+    - www.google.com
+    - www.xyz.com 
+    
+PyData
+
+- PyData
+    - www.google.com
+    - www.xyz.com 
+    
+SciPy
+
+- SciPy
+    - www.google.com
+    - www.xyz.com 
+
+## Python Experts Videos
+
+- Raymond Hettinger
+    - [Transforming Code into Beautiful, Idiomatic Python](www.youtube.com/dcwncwicscmkwd)
+- James Powell
+- William Cox
+- Matt Bachmann
+
 
 ## Bugs and feature requests
 
