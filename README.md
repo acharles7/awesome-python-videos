@@ -6,15 +6,14 @@
   </a>
 </p>
   <p align="center">
-    This repository contains videos from almost all the python conferences across the world. You'll find videos related 
-    to python, machine learning and data science and videos from some of the python expert {pythonista} who teach us 
+    This repository contains videos from almost all the python conferences across the world. 
+    You'll find videos related to python, machine learning and data science and videos from some of the python expert {pythonista} who teach us    
     how to use python more effectively.
     <br>
     <a href="https://github.com/acharles7/python-videos/issues/new?template=bug.md">Report bug</a>
     ·
     <a href="https://github.com/acharles7/python-videos/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
-
 
 
 ## Table of contents
@@ -24,7 +23,7 @@
 - [Most Favourite](#most-favourite)
 - [Python Conferences](#python-conferences)
 - [Python Experts](#python-experts-videos)
-- [Machine Learning and Data Science](#python-experts-videos)
+- [Machine Learning and Data Science](#ml-ds-videos)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
@@ -34,11 +33,14 @@
 
 ## Quick start
 
-Some text
-
 - Instruction 1
 - Instruction 2
 - Instruction 3
+
+## News
+
+- Latest python News
+
 ## Most Favourite
 
 Innformative
@@ -71,6 +73,7 @@ Some of the best videos from conference
     - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC) by Alex Chabot-Leclerc
     - [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=d1CIV9irQAY) by Nunez-Iglesias
     - [Turning HPC Systems into Interactive Data Analysis Platforms](https://www.youtube.com/watch?v=vhawO8fgD64) by A. Banihirwe
+    
 ## Python Experts
 
 - Raymond Hettinger
