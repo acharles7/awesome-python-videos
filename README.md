@@ -67,12 +67,17 @@ Some of the best videos from conference
     - [Stars, Planets, and Python](https://www.youtube.com/watch?v=6KvszWniMvo) by Sara Seager
     - [A/B Testing in Python](https://www.youtube.com/watch?v=r6Z8FyCJ1g8) by Raul Maldonado
     
+- PyData 2018, London
+    -  [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI) by Vincent Warmerdam
+    
 [SciPy](https://www.scipy.org/)
 
 - SciPy 2019, Austin, TX
     - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC) by Alex Chabot-Leclerc
     - [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=d1CIV9irQAY) by Nunez-Iglesias
     - [Turning HPC Systems into Interactive Data Analysis Platforms](https://www.youtube.com/watch?v=vhawO8fgD64) by A. Banihirwe
+    - [Modern Time Series Analysis](https://www.youtube.com/watch?v=v5ijNXvlC5A) by Aileen Nielsen
+    -
     
 ## Python Experts
 
@@ -84,6 +89,10 @@ Some of the best videos from conference
     - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
 - Alex Chabot-Leclerc
     - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC)
+- Aileen Nielsen
+    - [Modern Time Series Analysis](https://www.youtube.com/watch?v=v5ijNXvlC5A)
+- Vincent Warmerdam
+    - [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI)
 
 ## Machine Learning and Data Science
 
