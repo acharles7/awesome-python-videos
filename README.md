@@ -20,9 +20,11 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
+- [News](#python-news)
 - [Most Favourite](#most-favourite)
 - [Python Conferences](#python-conferences)
-- [Python Experts Videos](#python-experts-videos)
+- [Python Experts](#python-experts-videos)
+- [Machine Learning and Data Science](#python-experts-videos)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
@@ -39,41 +41,53 @@ Some text
 - Instruction 3
 ## Most Favourite
 
-Some text
+Innformative
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
+- [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
+
 
 ## Python Conferences
 
-Here goes all the budgets
+Some of the best videos from conference
 
-PyCon
+[PyCon](https://pycon.org/)
 
-- PyCon
-    - www.google.com
-    - www.xyz.com 
+- PyCon 2020, Virtual
+    - [Introduction to Decorators: Power Up Your Python Code](https://www.youtube.com/watch?v=T8CQwGIsrx4) by Geir Arne Hjelle
+    - [Python Concurrency: from beginner to pro](https://www.youtube.com/watch?v=18B1pznaU1o) by Santiago Basulto
+    - [Migration from Python 2 to 3](https://www.youtube.com/watch?v=JgIgEjASOlk) by Mike Müller
+    - [Natural Language Processing (NLP) in Python - From Zero to Hero](https://www.youtube.com/watch?v=vyOgWhwUmec) by Keith Galli
     
-PyData
+[PyData](https://pydata.org/)
 
-- PyData
-    - www.google.com
-    - www.xyz.com 
+- PyData 2019, Los Angeles, CA
+    - [Stars, Planets, and Python](https://www.youtube.com/watch?v=6KvszWniMvo) by Sara Seager
+    - [A/B Testing in Python](https://www.youtube.com/watch?v=r6Z8FyCJ1g8) by Raul Maldonado
     
-SciPy
+[SciPy](https://www.scipy.org/)
 
-- SciPy
-    - www.google.com
-    - www.xyz.com 
-
-## Python Experts Videos
+- SciPy 2019, Austin, TX
+    - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC) by Alex Chabot-Leclerc
+    - [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=d1CIV9irQAY) by Nunez-Iglesias
+    - [Turning HPC Systems into Interactive Data Analysis Platforms](https://www.youtube.com/watch?v=vhawO8fgD64) by A. Banihirwe
+## Python Experts
 
 - Raymond Hettinger
-    - [Transforming Code into Beautiful, Idiomatic Python](www.youtube.com/dcwncwicscmkwd)
+    - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
 - James Powell
 - William Cox
 - Matt Bachmann
+    - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
+- Alex Chabot-Leclerc
+    - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC)
+
+## Machine Learning and Data Science
+
+- [Episode 1.1: Intro and building a ML framework](https://www.youtube.com/watch?v=ArygUBY0QXw) by Abhishek Thakur
+- [Episode 1.2: Building an inference for the ML framework](https://www.youtube.com/watch?v=zcqgj-Udcqs) by Abhishek Thakur
+- [Episode 2: A Cross Validation Framework](https://www.youtube.com/watch?v=2wQlD46eICE) by Abhishek Thakur
+- [Episode 3: Handling Categorical Features in ML Problems](https://www.youtube.com/watch?v=vkXEHpuu03A) by Abhishek Thakur
 
 
 ## Bugs and feature requests
@@ -95,17 +109,15 @@ for easy use in common text editors. Read more and download plugins at <https://
 
 ## Creators
 
-**Creator 1**
-
 - <https://github.com/acharles7>
 
 ## Thanks
 
-Some Text
+Thank you all the speakers for teaching us.
 
 ## Copyright and license
 
 Code and documentation copyright 2011-2018 the authors. Code released under the 
-[MIT License](https://github.com/acharles7/python-videos/blob/master/LICENSE.md).
+[CC License](https://github.com/acharles7/python-videos/blob/master/LICENSE.md).
 
-Enjoy :metal:
+Happy Learning
