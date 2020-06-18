@@ -74,7 +74,9 @@ Some of the best videos from conference
     - [Machine Learning Crash Course](https://www.youtube.com/watch?v=pRX1sLG_6cw) by Samuel Taylor
     - [AI pipelines powered by Jupyter notebooks](https://www.youtube.com/watch?v=XJAx9dS0k7I) by Luciano Resende, Alan Chin
     - [Do You Want To Build A Forest?](https://www.youtube.com/watch?v=H01T_ICbJZY) by Thomas J Fan
-    
+
+- PyData 2018, Los Angeles, CA   
+    - [I Just Inherited 50,000 Lines of Code! What Now? — A Practical Guide](https://www.youtube.com/watch?v=mr2SE_drU5o) by James Powell
     
 - PyData 2018, London
     -  [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI) by Vincent Warmerdam
@@ -126,6 +128,7 @@ Some of the best videos from conference
     - [Top to down, left to right (Surprise talk)](https://www.youtube.com/watch?v=BRn6UCw35og)
     - [Advanced Metaphors in Coding with Python](https://www.youtube.com/watch?v=R2ipPgrWypI)
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
+    - [I Just Inherited 50,000 Lines of Code! What Now? — A Practical Guide](https://www.youtube.com/watch?v=mr2SE_drU5o)
     
 - William Cox
 - Matt Bachmann
