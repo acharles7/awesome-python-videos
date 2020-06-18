@@ -67,6 +67,15 @@ Some of the best videos from conference
     - [Stars, Planets, and Python](https://www.youtube.com/watch?v=6KvszWniMvo) by Sara Seager
     - [A/B Testing in Python](https://www.youtube.com/watch?v=r6Z8FyCJ1g8) by Raul Maldonado
     
+- PyData 2019, Austin, TX
+    - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4) by James Powell
+    - [Customizing JupyterLab using extensions](https://www.youtube.com/watch?v=PT9UIvLWUI0) by Alex Bozarth, Luciano Resende
+    - [ADTK: An open-source Python toolkit for anomaly detection in...](https://www.youtube.com/watch?v=im2kyhNPU8c) by Tailai Wen
+    - [Machine Learning Crash Course](https://www.youtube.com/watch?v=pRX1sLG_6cw) by Samuel Taylor
+    - [AI pipelines powered by Jupyter notebooks](https://www.youtube.com/watch?v=XJAx9dS0k7I) by Luciano Resende, Alan Chin
+    - [Do You Want To Build A Forest?](https://www.youtube.com/watch?v=H01T_ICbJZY) by Thomas J Fan
+    
+    
 - PyData 2018, London
     -  [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI) by Vincent Warmerdam
     
@@ -77,7 +86,9 @@ Some of the best videos from conference
     - [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=d1CIV9irQAY) by Nunez-Iglesias
     - [Turning HPC Systems into Interactive Data Analysis Platforms](https://www.youtube.com/watch?v=vhawO8fgD64) by A. Banihirwe
     - [Modern Time Series Analysis](https://www.youtube.com/watch?v=v5ijNXvlC5A) by Aileen Nielsen
-    -
+    - [Visualize any Data Easily, from Notebooks to Dashboards](https://www.youtube.com/watch?v=7deGS4IPAQ0) by James Bednar
+    - [Turn any Notebook into a Deployable Dashboard](https://www.youtube.com/watch?v=L91rd1D6XTA) by James Bednar
+    
     
 ## Python Experts
 
