@@ -79,6 +79,28 @@ Some of the best videos from conference
 - PyData 2018, London
     -  [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI) by Vincent Warmerdam
     
+- PyData 2017, Seattle
+    -  [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4) by James Powell
+
+- PyData 2017, London
+    -  [Building Web-based Analysis & Simulation Platforms](https://www.youtube.com/watch?v=eEXKIp8h0T0) by James Powell
+
+- PyData 2017, Warsaw
+    -  [Top to down, left to right (Surprise talk)](https://www.youtube.com/watch?v=BRn6UCw35og) by James Powell
+
+- PyData 2017, Berlin
+    -  [Advanced Metaphors in Coding with Python](https://www.youtube.com/watch?v=R2ipPgrWypI) by James Powell
+
+- PyData 2016, DC
+    -  [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
+
+- PyData 2015, NYC
+    -  [Does Code Quality Really Matter](https://www.youtube.com/watch?v=QuTmLeWL3C0) by James Powell
+
+- PyData 2014, Silicon Valley
+    -  [Generators Will Free Your Mind](https://www.youtube.com/watch?v=RdhoN4VVqq8) by James Powell
+
+
 [SciPy](https://www.scipy.org/)
 
 - SciPy 2019, Austin, TX
@@ -88,6 +110,7 @@ Some of the best videos from conference
     - [Modern Time Series Analysis](https://www.youtube.com/watch?v=v5ijNXvlC5A) by Aileen Nielsen
     - [Visualize any Data Easily, from Notebooks to Dashboards](https://www.youtube.com/watch?v=7deGS4IPAQ0) by James Bednar
     - [Turn any Notebook into a Deployable Dashboard](https://www.youtube.com/watch?v=L91rd1D6XTA) by James Bednar
+    - [Productionalizing a Data Science Team](https://www.youtube.com/watch?v=2v9uwedgBxU) by Nicole Carlson
     
     
 ## Python Experts
@@ -95,6 +118,15 @@ Some of the best videos from conference
 - Raymond Hettinger
     - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
 - James Powell
+    - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4)
+    - [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
+    - [Building Web-based Analysis & Simulation Platforms](https://www.youtube.com/watch?v=eEXKIp8h0T0)
+    - [Generators Will Free Your Mind](https://www.youtube.com/watch?v=RdhoN4VVqq8)
+    - [Does Code Quality Really Matter](https://www.youtube.com/watch?v=QuTmLeWL3C0)
+    - [Top to down, left to right (Surprise talk)](https://www.youtube.com/watch?v=BRn6UCw35og)
+    - [Advanced Metaphors in Coding with Python](https://www.youtube.com/watch?v=R2ipPgrWypI)
+    - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
+    
 - William Cox
 - Matt Bachmann
     - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
