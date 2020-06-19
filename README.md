@@ -61,6 +61,9 @@ Some of the best videos from conference
     - [Migration from Python 2 to 3](https://www.youtube.com/watch?v=JgIgEjASOlk) by Mike Müller
     - [Natural Language Processing (NLP) in Python - From Zero to Hero](https://www.youtube.com/watch?v=vyOgWhwUmec) by Keith Galli
 
+- PyCon 2018, Russia
+    - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw) by Raymond Hettinger
+
 - PyCon 2016, Russia
     - [Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0) by Raymond Hettinger
      
@@ -108,6 +111,9 @@ Some of the best videos from conference
 
 [PyBay](https://pybay.com/)
 
+- PyBay 2018
+    - [Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw) by Raymond Hettinger
+    
 - PyBay 2016
     -  [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U) by Raymond Hettinger
 
@@ -122,6 +128,8 @@ Some of the best videos from conference
     - [Visualize any Data Easily, from Notebooks to Dashboards](https://www.youtube.com/watch?v=7deGS4IPAQ0) by James Bednar
     - [Turn any Notebook into a Deployable Dashboard](https://www.youtube.com/watch?v=L91rd1D6XTA) by James Bednar
     - [Productionalizing a Data Science Team](https://www.youtube.com/watch?v=2v9uwedgBxU) by Nicole Carlson
+    
+- SciPy 2015, Austin, TX 
     
 [EuroPython](https://ep2020.europython.eu/) 
 
@@ -139,6 +147,8 @@ Some of the best videos from conference
     - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8) 
     - [Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0)
     - [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U)
+    - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
+    - [Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw) 
     
 - James Powell
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4)
