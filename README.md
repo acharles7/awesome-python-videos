@@ -111,8 +111,12 @@ Some of the best videos from conference
 
 [PyBay](https://pybay.com/)
 
+- PyBay 2019
+    -  [The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM) by Raymond Hettinger
+
 - PyBay 2018
     - [Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw) by Raymond Hettinger
+    - [asyncio: what's next](https://www.youtube.com/watch?v=vem5GHboRNM) by Yury Selivanov
     
 - PyBay 2016
     -  [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U) by Raymond Hettinger
@@ -149,6 +153,7 @@ Some of the best videos from conference
     - [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U)
     - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
     - [Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw) 
+    - [The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM)
     
 - James Powell
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4)
