@@ -53,7 +53,7 @@ Innformative
 
 Some of the best videos from conference
 
-####[PyCon](https://pycon.org/)
+#### [PyCon](https://pycon.org/)
 
 - PyCon 2020, Virtual
     - [Introduction to Decorators: Power Up Your Python Code](https://www.youtube.com/watch?v=T8CQwGIsrx4) by Geir Arne Hjelle
@@ -70,7 +70,7 @@ Some of the best videos from conference
 - PyCon 2016, Russia
     - [Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0) by Raymond Hettinger
      
-####[PyData](https://pydata.org/)
+#### [PyData](https://pydata.org/)
 
 - PyData 2019, Los Angeles, CA
     - [Stars, Planets, and Python](https://www.youtube.com/watch?v=6KvszWniMvo) by Sara Seager
@@ -112,7 +112,7 @@ Some of the best videos from conference
 - PyData 2014, Silicon Valley
     - [Generators Will Free Your Mind](https://www.youtube.com/watch?v=RdhoN4VVqq8) by James Powell
 
-####[PyBay](https://pybay.com/)
+#### [PyBay](https://pybay.com/)
 
 - PyBay 2019
     -  [The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM) by Raymond Hettinger
@@ -125,7 +125,7 @@ Some of the best videos from conference
     -  [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U) by Raymond Hettinger
 
 
-####[SciPy](https://www.scipy.org/)
+#### [SciPy](https://www.scipy.org/)
 
 - SciPy 2019, Austin, TX
     - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC) by Alex Chabot-Leclerc
@@ -141,12 +141,12 @@ Some of the best videos from conference
     
 - SciPy 2015, Austin, TX 
     
-####[EuroPython](https://ep2020.europython.eu/) 
+#### [EuroPython](https://ep2020.europython.eu/) 
 
 - EuroPython
     - [Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI) by Sebastian Witowski
     
-####[Meetups](#)
+#### [Meetups](#)
 
 - SF Python
     - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8) by Raymond Hettinger
