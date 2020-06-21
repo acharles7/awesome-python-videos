@@ -135,6 +135,7 @@ Some of the best videos from conference
     - [Visualize any Data Easily, from Notebooks to Dashboards](https://www.youtube.com/watch?v=7deGS4IPAQ0) by James Bednar
     - [Turn any Notebook into a Deployable Dashboard](https://www.youtube.com/watch?v=L91rd1D6XTA) by James Bednar
     - [Productionalizing a Data Science Team](https://www.youtube.com/watch?v=2v9uwedgBxU) by Nicole Carlson
+    - [Better and Faster Hyper Parameter Optimization with Dask](https://www.youtube.com/watch?v=x67K9FiPFBQ) by Scott Sievert
     
 - SciPy 2015, Austin, TX 
     
@@ -182,6 +183,7 @@ Some of the best videos from conference
 
 ## Machine Learning and Data Science
 
+- [Fun with TPUs]( https://www.youtube.com/watch?v=NIF6u8EAjro) by Martin Görner
 - [Episode 1.1: Intro and building a ML framework](https://www.youtube.com/watch?v=ArygUBY0QXw) by Abhishek Thakur
 - [Episode 1.2: Building an inference for the ML framework](https://www.youtube.com/watch?v=zcqgj-Udcqs) by Abhishek Thakur
 - [Episode 2: A Cross Validation Framework](https://www.youtube.com/watch?v=2wQlD46eICE) by Abhishek Thakur
