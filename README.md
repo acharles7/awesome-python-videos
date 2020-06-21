@@ -137,6 +137,7 @@ Some of the best videos from conference
     - [Productionalizing a Data Science Team](https://www.youtube.com/watch?v=2v9uwedgBxU) by Nicole Carlson
     - [Better and Faster Hyper Parameter Optimization with Dask](https://www.youtube.com/watch?v=x67K9FiPFBQ) by Scott Sievert
     - [Model Remodeling with Modern Deep Learning Frameworks](https://www.youtube.com/watch?v=OoGaFn3aaMU) by Ethan Rosenthal
+    - [Using a Stacking Model Ensemble Approach to Predict Rare Events](https://www.youtube.com/watch?v=6oD5K0x1k7c) by Susan Yuhou Xia
     
 - SciPy 2015, Austin, TX 
     
