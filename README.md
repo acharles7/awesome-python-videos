@@ -136,6 +136,7 @@ Some of the best videos from conference
     - [Turn any Notebook into a Deployable Dashboard](https://www.youtube.com/watch?v=L91rd1D6XTA) by James Bednar
     - [Productionalizing a Data Science Team](https://www.youtube.com/watch?v=2v9uwedgBxU) by Nicole Carlson
     - [Better and Faster Hyper Parameter Optimization with Dask](https://www.youtube.com/watch?v=x67K9FiPFBQ) by Scott Sievert
+    - [Model Remodeling with Modern Deep Learning Frameworks](https://www.youtube.com/watch?v=OoGaFn3aaMU) by Ethan Rosenthal
     
 - SciPy 2015, Austin, TX 
     
