@@ -173,6 +173,11 @@ Some of the best videos from conference
     - [I Just Inherited 50,000 Lines of Code! What Now? — A Practical Guide](https://www.youtube.com/watch?v=mr2SE_drU5o)
     
 - William Cox
+
+- Martin Görner
+    - [Fun with TPUs]( https://www.youtube.com/watch?v=NIF6u8EAjro) by Martin Görner
+    - [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD](https://www.youtube.com/watch?v=KC4201o83W0) by Martin Görner
+    
 - Matt Bachmann
     - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
 - Alex Chabot-Leclerc
@@ -185,6 +190,7 @@ Some of the best videos from conference
 ## Machine Learning and Data Science
 
 - [Fun with TPUs]( https://www.youtube.com/watch?v=NIF6u8EAjro) by Martin Görner
+- [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD](https://www.youtube.com/watch?v=KC4201o83W0) by Martin Görner
 - [Episode 1.1: Intro and building a ML framework](https://www.youtube.com/watch?v=ArygUBY0QXw) by Abhishek Thakur
 - [Episode 1.2: Building an inference for the ML framework](https://www.youtube.com/watch?v=zcqgj-Udcqs) by Abhishek Thakur
 - [Episode 2: A Cross Validation Framework](https://www.youtube.com/watch?v=2wQlD46eICE) by Abhishek Thakur
