@@ -61,6 +61,9 @@ Some of the best videos from conference
     - [Migration from Python 2 to 3](https://www.youtube.com/watch?v=JgIgEjASOlk) by Mike Müller
     - [Natural Language Processing (NLP) in Python - From Zero to Hero](https://www.youtube.com/watch?v=vyOgWhwUmec) by Keith Galli
 
+- PyCon 2018, Australia
+    - [Python Oddities Explained](https://www.youtube.com/watch?v=4MCT4WLf7Ac) by Trey Hunner
+
 - PyCon 2018, Russia
     - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw) by Raymond Hettinger
 
