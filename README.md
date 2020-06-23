@@ -120,7 +120,10 @@ Some of the best videos from conference
 - PyBay 2018
     - [Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw) by Raymond Hettinger
     - [asyncio: what's next](https://www.youtube.com/watch?v=vem5GHboRNM) by Yury Selivanov
-    
+
+- PyBay 2017
+    -  [Logging and Testing and Debugging, Oh My!](https://www.youtube.com/watch?v=ONCVvS-gDMA) by Albert Sweigart
+
 - PyBay 2016
     -  [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U) by Raymond Hettinger
 
@@ -150,6 +153,7 @@ Some of the best videos from conference
 
 - SF Python
     - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8) by Raymond Hettinger
+    - [Learning From Games and Puzzles](https://www.youtube.com/watch?v=lOWeCyOvRGk) by Raymond Hettinger
 ## Python Experts
 
 - Raymond Hettinger
