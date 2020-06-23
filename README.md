@@ -164,6 +164,7 @@ Some of the best videos from conference
     - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
     - [Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw) 
     - [The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM)
+    - [Learning From Games and Puzzles](https://www.youtube.com/watch?v=lOWeCyOvRGk)
     
 - James Powell
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4)
