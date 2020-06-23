@@ -111,11 +111,18 @@ Some of the best videos from conference
 - PyData 2017, Berlin
     - [Advanced Metaphors in Coding with Python](https://www.youtube.com/watch?v=R2ipPgrWypI) by James Powell
 
+- PyData 2016, Chicago
+    - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
+    - [Fizz Buzz in Tensorflow](https://www.youtube.com/watch?v=BgBrYpihvLY) by Joel Grus
+
 - PyData 2016, DC
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
 
 - PyData 2015, NYC
     - [Does Code Quality Really Matter](https://www.youtube.com/watch?v=QuTmLeWL3C0) by James Powell
+
+- PyData 2015, Seattle
+    - [Learning Data Science Using Functional Python](https://www.youtube.com/watch?v=ThS4juptJjQ) by Joel Grus
 
 - PyData 2014, Silicon Valley
     - [Generators Will Free Your Mind](https://www.youtube.com/watch?v=RdhoN4VVqq8) by James Powell
@@ -175,8 +182,8 @@ Some of the best videos from conference
     - [Learning From Games and Puzzles](https://www.youtube.com/watch?v=lOWeCyOvRGk)
 
 - David Beazley
-    - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
     - [Modules and Packages](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
+    - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
     - [Reinventing the Parser Generator](https://www.youtube.com/watch?v=zJ9z6Ge-vXs)
 - James Powell
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4)
@@ -189,6 +196,10 @@ Some of the best videos from conference
     - [Advanced Metaphors in Coding with Python](https://www.youtube.com/watch?v=R2ipPgrWypI)
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
     - [I Just Inherited 50,000 Lines of Code! What Now? — A Practical Guide](https://www.youtube.com/watch?v=mr2SE_drU5o)
+  
+- Joel Grus
+    - [Fizz Buzz in Tensorflow](https://www.youtube.com/watch?v=BgBrYpihvLY)
+    - [Learning Data Science Using Functional Python](https://www.youtube.com/watch?v=ThS4juptJjQ)
     
 - William Cox
 
