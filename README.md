@@ -64,6 +64,9 @@ Some of the best videos from conference
 - PyCon 2018, Australia
     - [Python Oddities Explained](https://www.youtube.com/watch?v=4MCT4WLf7Ac) by Trey Hunner
 
+- PyCon 2018, Cleveland
+    - [Reinventing the Parser Generator](https://www.youtube.com/watch?v=zJ9z6Ge-vXs) by David Beazley
+
 - PyCon 2018, Russia
     - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw) by Raymond Hettinger
 
@@ -72,6 +75,8 @@ Some of the best videos from conference
 
 - PyCon 2015, Montréal
     - [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) by Raymond Hettinger
+    - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) by David Beazley
+    - [Modules and Packages](https://www.youtube.com/watch?v=0oTh1CXRaQ0) by David Beazley
     
 #### [PyData](https://pydata.org/)
 
@@ -168,7 +173,11 @@ Some of the best videos from conference
     - [Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw) 
     - [The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM)
     - [Learning From Games and Puzzles](https://www.youtube.com/watch?v=lOWeCyOvRGk)
-    
+
+- David Beazley
+    - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
+    - [Modules and Packages](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
+    - [Reinventing the Parser Generator](https://www.youtube.com/watch?v=zJ9z6Ge-vXs)
 - James Powell
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4)
     - [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
