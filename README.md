@@ -69,7 +69,10 @@ Some of the best videos from conference
 
 - PyCon 2016, Russia
     - [Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0) by Raymond Hettinger
-     
+
+- PyCon 2015, Montréal
+    - [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) by Raymond Hettinger
+    
 #### [PyData](https://pydata.org/)
 
 - PyData 2019, Los Angeles, CA
