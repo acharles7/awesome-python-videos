@@ -47,6 +47,7 @@ Innformative
 
 - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
+- [How to become a Data Scientist in 6 months](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 
 ## Python Conferences
@@ -120,6 +121,9 @@ Some of the best videos from conference
 
 - PyData 2016, DC
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
+
+- PyData 2016, London
+    - [How to become a Data Scientist in 6 months](https://www.youtube.com/watch?v=rIofV14c0tc) by Tetiana Ivanova
 
 - PyData 2015, NYC
     - [Does Code Quality Really Matter](https://www.youtube.com/watch?v=QuTmLeWL3C0) by James Powell
