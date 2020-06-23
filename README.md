@@ -99,6 +99,9 @@ Some of the best videos from conference
     - [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI) by Vincent Warmerdam
     - [More About Generators](https://www.youtube.com/watch?v=m6asOJmfGpY) by James Powell
     
+- PyData 2017, Amsterdam
+    - [Applied Data Science](https://www.youtube.com/watch?v=7glVO4juXl0) by Giovanni Lanzani
+
 - PyData 2017, Seattle
     - [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4) by James Powell
 
