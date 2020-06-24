@@ -162,6 +162,7 @@ Some of the best videos from conference
 #### [SciPy](https://www.scipy.org/)
 
 - SciPy 2019, Austin, TX
+    - [Introduction to Python](https://www.youtube.com/watch?v=6KM8HOQi5Xk) by Matt Davis
     - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC) by Alex Chabot-Leclerc
     - [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=d1CIV9irQAY) by Nunez-Iglesias
     - [Turning HPC Systems into Interactive Data Analysis Platforms](https://www.youtube.com/watch?v=vhawO8fgD64) by A. Banihirwe
