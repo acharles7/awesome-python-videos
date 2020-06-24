@@ -132,6 +132,7 @@ Some of the best videos from conference
 
 - PyData 2015, NYC
     - [Does Code Quality Really Matter](https://www.youtube.com/watch?v=QuTmLeWL3C0) by James Powell
+    - [Machine Learning with scikit learn](https://www.youtube.com/watch?v=nJfxGY2dilY) by Andreas Mueller
 
 - PyData 2015, Seattle
     - [Learning Data Science Using Functional Python](https://www.youtube.com/watch?v=ThS4juptJjQ) by Joel Grus
@@ -234,6 +235,7 @@ Some of the best videos from conference
 - [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD](https://www.youtube.com/watch?v=KC4201o83W0) by Martin Görner
 - [Applying Statistical Modeling & Machine Learning to Perform Time-Series Forecasting](https://www.youtube.com/watch?v=JntA9XaTebs) by Tamara Louie
 - [Learning scikit learn - An Introduction to Machine Learning in Python](https://www.youtube.com/watch?v=9fOWryQq9J8) by Sebastian Raschka
+- [Machine Learning with scikit learn](https://www.youtube.com/watch?v=nJfxGY2dilY) by Andreas Mueller
 - [Episode 1.1: Intro and building a ML framework](https://www.youtube.com/watch?v=ArygUBY0QXw) by Abhishek Thakur
 - [Episode 1.2: Building an inference for the ML framework](https://www.youtube.com/watch?v=zcqgj-Udcqs) by Abhishek Thakur
 - [Episode 2: A Cross Validation Framework](https://www.youtube.com/watch?v=2wQlD46eICE) by Abhishek Thakur
