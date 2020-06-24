@@ -98,7 +98,8 @@ Some of the best videos from conference
 
 - PyData 2018, Los Angeles, CA   
     - [I Just Inherited 50,000 Lines of Code! What Now? — A Practical Guide](https://www.youtube.com/watch?v=mr2SE_drU5o) by James Powell
-    
+    - [Applying Statistical Modeling & Machine Learning to Perform Time-Series Forecasting](https://www.youtube.com/watch?v=JntA9XaTebs) by Tamara Louie
+     
 - PyData 2018, London
     - [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI) by Vincent Warmerdam
     - [More About Generators](https://www.youtube.com/watch?v=m6asOJmfGpY) by James Powell
@@ -121,6 +122,7 @@ Some of the best videos from conference
 - PyData 2016, Chicago
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
     - [Fizz Buzz in Tensorflow](https://www.youtube.com/watch?v=BgBrYpihvLY) by Joel Grus
+    - [Learning scikit learn - An Introduction to Machine Learning in Python](https://www.youtube.com/watch?v=9fOWryQq9J8) by Sebastian Raschka
 
 - PyData 2016, DC
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
@@ -230,6 +232,8 @@ Some of the best videos from conference
 
 - [Fun with TPUs]( https://www.youtube.com/watch?v=NIF6u8EAjro) by Martin Görner
 - [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD](https://www.youtube.com/watch?v=KC4201o83W0) by Martin Görner
+- [Applying Statistical Modeling & Machine Learning to Perform Time-Series Forecasting](https://www.youtube.com/watch?v=JntA9XaTebs) by Tamara Louie
+- [Learning scikit learn - An Introduction to Machine Learning in Python](https://www.youtube.com/watch?v=9fOWryQq9J8) by Sebastian Raschka
 - [Episode 1.1: Intro and building a ML framework](https://www.youtube.com/watch?v=ArygUBY0QXw) by Abhishek Thakur
 - [Episode 1.2: Building an inference for the ML framework](https://www.youtube.com/watch?v=zcqgj-Udcqs) by Abhishek Thakur
 - [Episode 2: A Cross Validation Framework](https://www.youtube.com/watch?v=2wQlD46eICE) by Abhishek Thakur
