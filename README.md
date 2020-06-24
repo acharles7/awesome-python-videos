@@ -72,8 +72,11 @@ Some of the best videos from conference
     - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw) by Raymond Hettinger
 
 - PyCon 2016, Russia
-    - [Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0) by Raymond Hettinger
+    - [Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0) by Raymond Hettinger 
 
+- PyCon 2016, Oregon
+    - [Refactoring Python: Why and how to restructure your code](https://www.youtube.com/watch?v=D_6ybDcU5gc) by Brett Slatkin
+    
 - PyCon 2015, Montréal
     - [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) by Raymond Hettinger
     - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) by David Beazley
