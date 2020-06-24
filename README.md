@@ -136,6 +136,9 @@ Some of the best videos from conference
 
 - PyData 2015, Seattle
     - [Learning Data Science Using Functional Python](https://www.youtube.com/watch?v=ThS4juptJjQ) by Joel Grus
+    
+- PyData 2015, Dallas
+    - [Deploying scikit learn Models in Production](https://www.youtube.com/watch?v=AwjeRg1u5VI) by Rajat Arya
 
 - PyData 2014, Silicon Valley
     - [Generators Will Free Your Mind](https://www.youtube.com/watch?v=RdhoN4VVqq8) by James Powell
@@ -240,6 +243,7 @@ Some of the best videos from conference
 - [Episode 1.2: Building an inference for the ML framework](https://www.youtube.com/watch?v=zcqgj-Udcqs) by Abhishek Thakur
 - [Episode 2: A Cross Validation Framework](https://www.youtube.com/watch?v=2wQlD46eICE) by Abhishek Thakur
 - [Episode 3: Handling Categorical Features in ML Problems](https://www.youtube.com/watch?v=vkXEHpuu03A) by Abhishek Thakur
+- [Deploying scikit learn Models in Production](https://www.youtube.com/watch?v=AwjeRg1u5VI) by Rajat Arya
 
 
 ## Bugs and feature requests
