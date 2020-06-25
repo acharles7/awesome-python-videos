@@ -165,6 +165,7 @@ Some of the best videos from conference
     - [Bayesian Statistics Made Simple](https://www.youtube.com/watch?v=-X0BiV9n_fQ) by Allen Downey
     - [Introduction to Python](https://www.youtube.com/watch?v=6KM8HOQi5Xk) by Matt Davis
     - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk) by Alex Chabot-Leclerc
+    - [Introduction to Matplotlib](https://www.youtube.com/watch?v=Tr4DYo4v5AY) by Hannah Aizenman and Thomas Caswell[]
     - [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=d1CIV9irQAY) by Nunez-Iglesias
     - [Turning HPC Systems into Interactive Data Analysis Platforms](https://www.youtube.com/watch?v=vhawO8fgD64) by A. Banihirwe
     - [Modern Time Series Analysis](https://www.youtube.com/watch?v=v5ijNXvlC5A) by Aileen Nielsen
