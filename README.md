@@ -83,10 +83,6 @@ Some of the best videos from conference
     - [Modules and Packages](https://www.youtube.com/watch?v=0oTh1CXRaQ0) by David Beazley
     
 #### [PyData](https://pydata.org/)
-
-- PyData 2019, Los Angeles, CA
-    - [Stars, Planets, and Python](https://www.youtube.com/watch?v=6KvszWniMvo) by Sara Seager
-    - [A/B Testing in Python](https://www.youtube.com/watch?v=r6Z8FyCJ1g8) by Raul Maldonado
     
 - PyData 2019, Austin, TX
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4) by James Powell
@@ -96,6 +92,13 @@ Some of the best videos from conference
     - [AI pipelines powered by Jupyter notebooks](https://www.youtube.com/watch?v=XJAx9dS0k7I) by Luciano Resende, Alan Chin
     - [Do You Want To Build A Forest?](https://www.youtube.com/watch?v=H01T_ICbJZY) by Thomas J Fan
 
+- PyData 2019, London
+    - [A gentle introduction to Pandas timeseries and Seaborn](https://www.youtube.com/watch?v=8upGdZMlkYM) by Ian Ozsvald
+
+- PyData 2019, Los Angeles, CA
+    - [Stars, Planets, and Python](https://www.youtube.com/watch?v=6KvszWniMvo) by Sara Seager
+    - [A/B Testing in Python](https://www.youtube.com/watch?v=r6Z8FyCJ1g8) by Raul Maldonado
+    
 - PyData 2018, Los Angeles, CA   
     - [I Just Inherited 50,000 Lines of Code! What Now? — A Practical Guide](https://www.youtube.com/watch?v=mr2SE_drU5o) by James Powell
     - [Applying Statistical Modeling & Machine Learning to Perform Time-Series Forecasting](https://www.youtube.com/watch?v=JntA9XaTebs) by Tamara Louie
@@ -165,7 +168,7 @@ Some of the best videos from conference
     - [Bayesian Statistics Made Simple](https://www.youtube.com/watch?v=-X0BiV9n_fQ) by Allen Downey
     - [Introduction to Python](https://www.youtube.com/watch?v=6KM8HOQi5Xk) by Matt Davis
     - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk) by Alex Chabot-Leclerc
-    - [Introduction to Matplotlib](https://www.youtube.com/watch?v=Tr4DYo4v5AY) by Hannah Aizenman and Thomas Caswell[]
+    - [Introduction to Matplotlib](https://www.youtube.com/watch?v=Tr4DYo4v5AY) by Hannah Aizenman and Thomas Caswell
     - [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=d1CIV9irQAY) by Nunez-Iglesias
     - [Turning HPC Systems into Interactive Data Analysis Platforms](https://www.youtube.com/watch?v=vhawO8fgD64) by A. Banihirwe
     - [Modern Time Series Analysis](https://www.youtube.com/watch?v=v5ijNXvlC5A) by Aileen Nielsen
