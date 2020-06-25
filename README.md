@@ -1,14 +1,17 @@
 # Python Videos
 
 <p align="center">
-  <a href="https://example.com/">
+  <a href="https://python.org/">
     <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="background: #fff;" alt="Logo">
   </a>
 </p>
+<a href="https://python.org/">
+    <img src="https://pydata.org/wp-content/uploads/2019/06/pydata-logo-final.png" style="background:#fff; height: 50%; width: 50%" alt="Logo">
+</a>
   <p align="center">
     This repository contains videos from almost all the python conferences across the world. 
-    You'll find videos related to python, machine learning and data science and videos from some of the python expert {pythonista} who teach us    
-    how to use python more effectively.
+    You'll find videos related to python, machine learning and data science and videos from some of the python expert 
+    {pythonista} who teach us how to use python more effectively.
     <br>
     <a href="https://github.com/acharles7/python-videos/issues/new?template=bug.md">Report bug</a>
     ·
