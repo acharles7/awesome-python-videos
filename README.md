@@ -73,6 +73,7 @@ Some of the best videos from conference
     - [Migration from Python 2 to 3](https://www.youtube.com/watch?v=JgIgEjASOlk) by Mike Müller
     - [Natural Language Processing (NLP) in Python - From Zero to Hero](https://www.youtube.com/watch?v=vyOgWhwUmec) by Keith Galli
     - [Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ) by Sebastian Witowski
+    - [Why is Python slow?](https://www.youtube.com/watch?v=I4nkgJdVZFA) by Anthony Shaw
 
 - PyCon 2018
     - [Python Oddities Explained](https://www.youtube.com/watch?v=4MCT4WLf7Ac) by Trey Hunner
