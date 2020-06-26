@@ -121,12 +121,14 @@ Some of the best videos from conference
     - [Learning scikit learn - An Introduction to Machine Learning in Python](https://www.youtube.com/watch?v=9fOWryQq9J8) by Sebastian Raschka
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
     - [How to become a Data Scientist in 6 months](https://www.youtube.com/watch?v=rIofV14c0tc) by Tetiana Ivanova
+    - [Python and Johnny Cash](https://www.youtube.com/watch?v=L3j2qw9XZCc) by James Powell
 
 - PyData 2015
     - [Does Code Quality Really Matter](https://www.youtube.com/watch?v=QuTmLeWL3C0) by James Powell
     - [Machine Learning with scikit learn](https://www.youtube.com/watch?v=nJfxGY2dilY) by Andreas Mueller
     - [Learning Data Science Using Functional Python](https://www.youtube.com/watch?v=ThS4juptJjQ) by Joel Grus
     - [Deploying scikit learn Models in Production](https://www.youtube.com/watch?v=AwjeRg1u5VI) by Rajat Arya
+    - [CPython Meanderings](https://www.youtube.com/watch?v=2O7yj-Nh6AY) by James Powell 
 
 - PyData 2014
     - [Generators Will Free Your Mind](https://www.youtube.com/watch?v=RdhoN4VVqq8) by James Powell
@@ -205,6 +207,8 @@ Some of the best videos from conference
     - [Advanced Metaphors in Coding with Python](https://www.youtube.com/watch?v=R2ipPgrWypI)
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
     - [I Just Inherited 50,000 Lines of Code! What Now? — A Practical Guide](https://www.youtube.com/watch?v=mr2SE_drU5o)
+    - [Python and Johnny Cash](https://www.youtube.com/watch?v=L3j2qw9XZCc)
+    - [CPython Meanderings](https://www.youtube.com/watch?v=2O7yj-Nh6AY) 
   
 - Joel Grus
     - [Fizz Buzz in Tensorflow](https://www.youtube.com/watch?v=BgBrYpihvLY)
