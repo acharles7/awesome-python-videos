@@ -29,7 +29,6 @@
 
 ## Table of contents
 
-- [Quick start](#quick-start)
 - [News](#news)
 - [Most Favourite](#most-favourite)
 - [Python Conferences](#python-conferences)
@@ -41,12 +40,6 @@
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
-
-## Quick start
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
 
 ## News
 
