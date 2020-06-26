@@ -67,94 +67,67 @@ Some of the best videos from conference
 
 #### [PyCon](https://pycon.org/)
 
-- PyCon 2020, Virtual
+- PyCon 2020
     - [Introduction to Decorators: Power Up Your Python Code](https://www.youtube.com/watch?v=T8CQwGIsrx4) by Geir Arne Hjelle
     - [Python Concurrency: from beginner to pro](https://www.youtube.com/watch?v=18B1pznaU1o) by Santiago Basulto
     - [Migration from Python 2 to 3](https://www.youtube.com/watch?v=JgIgEjASOlk) by Mike Müller
     - [Natural Language Processing (NLP) in Python - From Zero to Hero](https://www.youtube.com/watch?v=vyOgWhwUmec) by Keith Galli
+    - [Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ) by Sebastian Witowski
 
-- PyCon 2018, Australia
+- PyCon 2018
     - [Python Oddities Explained](https://www.youtube.com/watch?v=4MCT4WLf7Ac) by Trey Hunner
-
-- PyCon 2018, Cleveland
     - [Reinventing the Parser Generator](https://www.youtube.com/watch?v=zJ9z6Ge-vXs) by David Beazley
-
-- PyCon 2018, Russia
     - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw) by Raymond Hettinger
 
-- PyCon 2016, Russia
+- PyCon 2016
     - [Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0) by Raymond Hettinger 
-
-- PyCon 2016, Oregon
     - [Refactoring Python: Why and how to restructure your code](https://www.youtube.com/watch?v=D_6ybDcU5gc) by Brett Slatkin
     
-- PyCon 2015, Montréal
+- PyCon 2015
     - [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) by Raymond Hettinger
     - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) by David Beazley
     - [Modules and Packages](https://www.youtube.com/watch?v=0oTh1CXRaQ0) by David Beazley
     
 #### [PyData](https://pydata.org/)
     
-- PyData 2019, Austin, TX
+- PyData 2019
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4) by James Powell
     - [Customizing JupyterLab using extensions](https://www.youtube.com/watch?v=PT9UIvLWUI0) by Alex Bozarth, Luciano Resende
     - [ADTK: An open-source Python toolkit for anomaly detection in...](https://www.youtube.com/watch?v=im2kyhNPU8c) by Tailai Wen
     - [Machine Learning Crash Course](https://www.youtube.com/watch?v=pRX1sLG_6cw) by Samuel Taylor
     - [AI pipelines powered by Jupyter notebooks](https://www.youtube.com/watch?v=XJAx9dS0k7I) by Luciano Resende, Alan Chin
     - [Do You Want To Build A Forest?](https://www.youtube.com/watch?v=H01T_ICbJZY) by Thomas J Fan
-
-- PyData 2019, London
     - [A gentle introduction to Pandas timeseries and Seaborn](https://www.youtube.com/watch?v=8upGdZMlkYM) by Ian Ozsvald
-
-- PyData 2019, Los Angeles, CA
     - [Stars, Planets, and Python](https://www.youtube.com/watch?v=6KvszWniMvo) by Sara Seager
     - [A/B Testing in Python](https://www.youtube.com/watch?v=r6Z8FyCJ1g8) by Raul Maldonado
     
-- PyData 2018, Los Angeles, CA   
+- PyData 2018
     - [I Just Inherited 50,000 Lines of Code! What Now? — A Practical Guide](https://www.youtube.com/watch?v=mr2SE_drU5o) by James Powell
     - [Applying Statistical Modeling & Machine Learning to Perform Time-Series Forecasting](https://www.youtube.com/watch?v=JntA9XaTebs) by Tamara Louie
-     
-- PyData 2018, London
     - [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI) by Vincent Warmerdam
     - [More About Generators](https://www.youtube.com/watch?v=m6asOJmfGpY) by James Powell
     
-- PyData 2017, Amsterdam
+- PyData 2017
     - [Applied Data Science](https://www.youtube.com/watch?v=7glVO4juXl0) by Giovanni Lanzani
-
-- PyData 2017, Seattle
     - [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4) by James Powell
-
-- PyData 2017, London
     - [Building Web-based Analysis & Simulation Platforms](https://www.youtube.com/watch?v=eEXKIp8h0T0) by James Powell
-
-- PyData 2017, Warsaw
     - [Top to down, left to right (Surprise talk)](https://www.youtube.com/watch?v=BRn6UCw35og) by James Powell
-
-- PyData 2017, Berlin
     - [Advanced Metaphors in Coding with Python](https://www.youtube.com/watch?v=R2ipPgrWypI) by James Powell
 
-- PyData 2016, Chicago
+- PyData 2016
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
     - [Fizz Buzz in Tensorflow](https://www.youtube.com/watch?v=BgBrYpihvLY) by Joel Grus
     - [Learning scikit learn - An Introduction to Machine Learning in Python](https://www.youtube.com/watch?v=9fOWryQq9J8) by Sebastian Raschka
-
-- PyData 2016, DC
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
-
-- PyData 2016, London
     - [How to become a Data Scientist in 6 months](https://www.youtube.com/watch?v=rIofV14c0tc) by Tetiana Ivanova
 
-- PyData 2015, NYC
+- PyData 2015
     - [Does Code Quality Really Matter](https://www.youtube.com/watch?v=QuTmLeWL3C0) by James Powell
     - [Machine Learning with scikit learn](https://www.youtube.com/watch?v=nJfxGY2dilY) by Andreas Mueller
-
-- PyData 2015, Seattle
     - [Learning Data Science Using Functional Python](https://www.youtube.com/watch?v=ThS4juptJjQ) by Joel Grus
-    
-- PyData 2015, Dallas
     - [Deploying scikit learn Models in Production](https://www.youtube.com/watch?v=AwjeRg1u5VI) by Rajat Arya
 
-- PyData 2014, Silicon Valley
+- PyData 2014
     - [Generators Will Free Your Mind](https://www.youtube.com/watch?v=RdhoN4VVqq8) by James Powell
 
 #### [PyBay](https://pybay.com/)
@@ -175,7 +148,7 @@ Some of the best videos from conference
 
 #### [SciPy](https://www.scipy.org/)
 
-- SciPy 2019, Austin, TX
+- SciPy 2019
     - [Bayesian Statistics Made Simple](https://www.youtube.com/watch?v=-X0BiV9n_fQ) by Allen Downey
     - [Introduction to Python](https://www.youtube.com/watch?v=6KM8HOQi5Xk) by Matt Davis
     - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk) by Alex Chabot-Leclerc
@@ -190,12 +163,14 @@ Some of the best videos from conference
     - [Model Remodeling with Modern Deep Learning Frameworks](https://www.youtube.com/watch?v=OoGaFn3aaMU) by Ethan Rosenthal
     - [Using a Stacking Model Ensemble Approach to Predict Rare Events](https://www.youtube.com/watch?v=6oD5K0x1k7c) by Susan Yuhou Xia
     
-- SciPy 2015, Austin, TX 
+- SciPy 2015
     
 #### [EuroPython](https://ep2020.europython.eu/) 
 
-- EuroPython
+- EuroPython, 2019
+
     - [Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI) by Sebastian Witowski
+    - [Wait, IPython can do that?!](https://www.youtube.com/watch?v=3i6db5zX3Rw) by Sebastian Witowski
     
 #### [Meetups](#)
 
@@ -233,12 +208,17 @@ Some of the best videos from conference
 - Joel Grus
     - [Fizz Buzz in Tensorflow](https://www.youtube.com/watch?v=BgBrYpihvLY)
     - [Learning Data Science Using Functional Python](https://www.youtube.com/watch?v=ThS4juptJjQ)
+
+- Sebastian Witowski
+    - [Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI) 
+    - [Wait, IPython can do that?!](https://www.youtube.com/watch?v=3i6db5zX3Rw)
+    
     
 - William Cox
 
 - Martin Görner
-    - [Fun with TPUs]( https://www.youtube.com/watch?v=NIF6u8EAjro) by Martin Görner
-    - [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD](https://www.youtube.com/watch?v=KC4201o83W0) by Martin Görner
+    - [Fun with TPUs]( https://www.youtube.com/watch?v=NIF6u8EAjro) 
+    - [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD](https://www.youtube.com/watch?v=KC4201o83W0)
     
 - Matt Bachmann
     - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
