@@ -107,6 +107,7 @@ Some of the best videos from conference
     - [Applying Statistical Modeling & Machine Learning to Perform Time-Series Forecasting](https://www.youtube.com/watch?v=JntA9XaTebs) by Tamara Louie
     - [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI) by Vincent Warmerdam
     - [More About Generators](https://www.youtube.com/watch?v=m6asOJmfGpY) by James Powell
+    - [Unit Testing for Data Scientists](https://www.youtube.com/watch?v=Da-FL_1i6ps) by Hanna Torrence
     
 - PyData 2017
     - [Applied Data Science](https://www.youtube.com/watch?v=7glVO4juXl0) by Giovanni Lanzani
