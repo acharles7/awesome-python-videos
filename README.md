@@ -66,6 +66,7 @@ Some of the best videos from conference
     - [Natural Language Processing (NLP) in Python - From Zero to Hero](https://www.youtube.com/watch?v=vyOgWhwUmec) by Keith Galli
     - [Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ) by Sebastian Witowski
     - [Why is Python slow?](https://www.youtube.com/watch?v=I4nkgJdVZFA) by Anthony Shaw
+    - [A careful walk through probability distributions, using Python](https://www.youtube.com/watch?v=G7SIcvWrAKs) by Eric J. Ma
 
 - PyCon 2018
     - [Python Oddities Explained](https://www.youtube.com/watch?v=4MCT4WLf7Ac) by Trey Hunner
@@ -109,6 +110,7 @@ Some of the best videos from conference
     - [Top to down, left to right (Surprise talk)](https://www.youtube.com/watch?v=BRn6UCw35og) by James Powell
     - [Advanced Metaphors in Coding with Python](https://www.youtube.com/watch?v=R2ipPgrWypI) by James Powell
     - [Time Series Forecasting using Statistical and Machine Learning Models](https://www.youtube.com/watch?v=_vQ0W_qXMxk) by Jeffrey Yau
+    - [A Worked Example of Using Neural Networks for Time Series Prediction](https://www.youtube.com/watch?v=hAlGqT3Xpus) by Joe Jevnik
 
 - PyData 2016
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
