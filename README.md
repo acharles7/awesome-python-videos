@@ -28,7 +28,6 @@
 
 
 ## Table of contents
-
 - [News](#news)
 - [Most Favourite](#most-favourite)
 - [Python Conferences](#python-conferences)
@@ -101,6 +100,7 @@ Some of the best videos from conference
     - [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI) by Vincent Warmerdam
     - [More About Generators](https://www.youtube.com/watch?v=m6asOJmfGpY) by James Powell
     - [Unit Testing for Data Scientists](https://www.youtube.com/watch?v=Da-FL_1i6ps) by Hanna Torrence
+    - [Cleaning and Tidying Data in Pandas](https://www.youtube.com/watch?v=iYie42M1ZyU) by Daniel Chen
     
 - PyData 2017
     - [Applied Data Science](https://www.youtube.com/watch?v=7glVO4juXl0) by Giovanni Lanzani
