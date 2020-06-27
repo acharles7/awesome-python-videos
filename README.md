@@ -108,6 +108,7 @@ Some of the best videos from conference
     - [Building Web-based Analysis & Simulation Platforms](https://www.youtube.com/watch?v=eEXKIp8h0T0) by James Powell
     - [Top to down, left to right (Surprise talk)](https://www.youtube.com/watch?v=BRn6UCw35og) by James Powell
     - [Advanced Metaphors in Coding with Python](https://www.youtube.com/watch?v=R2ipPgrWypI) by James Powell
+    - [Time Series Forecasting using Statistical and Machine Learning Models](https://www.youtube.com/watch?v=_vQ0W_qXMxk) by Jeffrey Yau
 
 - PyData 2016
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
