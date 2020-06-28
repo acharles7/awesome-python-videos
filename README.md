@@ -72,6 +72,7 @@ Some of the best videos from conference
     - [Python Oddities Explained](https://www.youtube.com/watch?v=4MCT4WLf7Ac) by Trey Hunner
     - [Reinventing the Parser Generator](https://www.youtube.com/watch?v=zJ9z6Ge-vXs) by David Beazley
     - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw) by Raymond Hettinger
+    - [Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8) by Carl Meyer
 
 - PyCon 2017
     - [A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw) by Gregory Saunders
@@ -81,6 +82,7 @@ Some of the best videos from conference
     - [Refactoring Python: Why and how to restructure your code](https://www.youtube.com/watch?v=D_6ybDcU5gc) by Brett Slatkin
     
 - PyCon 2015
+    - [Type Hints](https://www.youtube.com/watch?v=2wDvzy6Hgxg) by Guido van Rossum
     - [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) by Raymond Hettinger
     - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) by David Beazley
     - [Modules and Packages](https://www.youtube.com/watch?v=0oTh1CXRaQ0) by David Beazley
