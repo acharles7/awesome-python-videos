@@ -187,8 +187,8 @@ Some of the best videos from conference
 - SF Python
     - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8) by Raymond Hettinger
     - [Learning From Games and Puzzles](https://www.youtube.com/watch?v=lOWeCyOvRGk) by Raymond Hettinger
+<!---
 ## Python Experts
-
 - Raymond Hettinger
     - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
     - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8) 
@@ -203,6 +203,7 @@ Some of the best videos from conference
     - [Modules and Packages](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
     - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
     - [Reinventing the Parser Generator](https://www.youtube.com/watch?v=zJ9z6Ge-vXs)
+    
 - James Powell
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4)
     - [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
@@ -240,6 +241,8 @@ Some of the best videos from conference
     - [Modern Time Series Analysis](https://www.youtube.com/watch?v=v5ijNXvlC5A)
 - Vincent Warmerdam
     - [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI)
+--->
+
 
 ## Machine Learning and Data Science
 
