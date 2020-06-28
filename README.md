@@ -143,7 +143,8 @@ Some of the best videos from conference
     - [asyncio: what's next](https://www.youtube.com/watch?v=vem5GHboRNM) by Yury Selivanov
 
 - PyBay 2017
-    -  [Logging and Testing and Debugging, Oh My!](https://www.youtube.com/watch?v=ONCVvS-gDMA) by Albert Sweigart
+    - [Logging and Testing and Debugging, Oh My!](https://www.youtube.com/watch?v=ONCVvS-gDMA) by Albert Sweigart
+    - [Keynote on Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk) by Raymond Hettinger
 
 - PyBay 2016
     -  [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U) by Raymond Hettinger
