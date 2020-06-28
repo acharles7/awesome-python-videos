@@ -68,6 +68,9 @@ Some of the best videos from conference
     - [Why is Python slow?](https://www.youtube.com/watch?v=I4nkgJdVZFA) by Anthony Shaw
     - [A careful walk through probability distributions, using Python](https://www.youtube.com/watch?v=G7SIcvWrAKs) by Eric J. Ma
 
+- PyCon 2019
+    - [Type hinting (and mypy)](https://www.youtube.com/watch?v=hTrjTAPnA_k) by Bernat Gabor
+    
 - PyCon 2018
     - [Python Oddities Explained](https://www.youtube.com/watch?v=4MCT4WLf7Ac) by Trey Hunner
     - [Reinventing the Parser Generator](https://www.youtube.com/watch?v=zJ9z6Ge-vXs) by David Beazley
