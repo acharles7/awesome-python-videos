@@ -154,7 +154,8 @@ Some of the best videos from conference
     - [Keynote on Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk) by Raymond Hettinger
 
 - PyBay 2016
-    -  [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U) by Raymond Hettinger
+    - [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U) by Raymond Hettinger
+    - [Python Memory Model & Best Practices](https://www.youtube.com/watch?v=SiXyyOA6RZg) by Wesley Chun
 
 
 #### [SciPy](https://www.scipy.org/)
