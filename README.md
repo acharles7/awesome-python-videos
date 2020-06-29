@@ -122,6 +122,7 @@ Some of the best videos from conference
 
 - PyData 2016
     - [Python Language](https://www.youtube.com/watch?v=YgtL4S7Hrwo) by Guido van Rossum
+    - [Memory Management in Python - The Basics](https://www.youtube.com/watch?v=F6u5rhUQ6dU) by Nina Zakharenko
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
     - [Fizz Buzz in Tensorflow](https://www.youtube.com/watch?v=BgBrYpihvLY) by Joel Grus
     - [Learning scikit learn - An Introduction to Machine Learning in Python](https://www.youtube.com/watch?v=9fOWryQq9J8) by Sebastian Raschka
