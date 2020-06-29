@@ -121,6 +121,7 @@ Some of the best videos from conference
     - [A Worked Example of Using Neural Networks for Time Series Prediction](https://www.youtube.com/watch?v=hAlGqT3Xpus) by Joe Jevnik
 
 - PyData 2016
+    - [Python Language](https://www.youtube.com/watch?v=YgtL4S7Hrwo) by Guido van Rossum
     - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE) by James Powell
     - [Fizz Buzz in Tensorflow](https://www.youtube.com/watch?v=BgBrYpihvLY) by Joel Grus
     - [Learning scikit learn - An Introduction to Machine Learning in Python](https://www.youtube.com/watch?v=9fOWryQq9J8) by Sebastian Raschka
