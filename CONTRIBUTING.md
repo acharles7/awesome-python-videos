@@ -2,19 +2,19 @@
 
 This is a project that is for the community and its true essence is only possible when it is community driven.
 
-Please feel free to contribute to this project and be a part of this. Anything from raising issues to adding new features or even a typo in documentations, all are welcome. Please report issues here [https://github.com/acharles7/python-videos/issues/](https://github.com/acharles7/python-videos/issues/new). It is also recommended to go through the Contributions Best Practices below to help organize contributions :smiley:
+Please feel free to contribute to this project and be a part of this. Anything from raising issues to adding new features or even a typo in documentations, all are welcome. Please report issues [here](https://github.com/acharles7/python-videos/issues/new). It is also recommended to go through the Contributions Best Practices below to help organize contributions :smiley:
 
 ## Contributions Best Practices
 
 ### Commits
 
-* Write clear meaningful git commit messages (Do read [http://chris.beams.io/posts/git-commit/](http://chris.beams.io/posts/git-commit/))
+* Write clear meaningful git commit messages (Do read about [good commit messages](http://chris.beams.io/posts/git-commit/))
 
 * Make sure your PR's description contains GitHub's special numeric reference (If any) to the related issue.
 
 * While adding questions, please make sure that you add only a single new question per PR as it becomes easy to review and maintain many PRs.
 
-* When you make minor changes to a PR of yours, make sure you squash your commits afterwards so that you don't have an absurd number of commits for a single PR. (Learn how to squash commits at [https://davidwalsh.name/squash-commits-git](https://davidwalsh.name/squash-commits-git))
+* When you make minor changes to a PR of yours, make sure you squash your commits afterwards so that you don't have an absurd number of commits for a single PR. (Learn how to [squash commits](https://davidwalsh.name/squash-commits-git))
 
 ### Issues
 
@@ -40,7 +40,7 @@ The Bookmarks directory is for storing awesome links to articles, videos, slides
 
 You can add anything to the repo as long as it is related to programming and increasing knowledge :smiley:
 
-0. Firstly, fork the repo to your GitHub account. Just to get familiar with some terms, this will be the `origin`. To state `origin` and `upstream` explicitly,
+0. Firstly, fork the repo to your GitHub account. Just to get familiar with some terms, this will be the `origin`.
 
 - upstream: https://github.com/acharles7/python-videos 
 - origin:   https://github.com/your-username/python-videos
