@@ -190,61 +190,6 @@ Some of the best videos from conference
 - SF Python
     - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8) by Raymond Hettinger
     - [Learning From Games and Puzzles](https://www.youtube.com/watch?v=lOWeCyOvRGk) by Raymond Hettinger
-<!---
-## Python Experts
-- Raymond Hettinger
-    - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
-    - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8) 
-    - [Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0)
-    - [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U)
-    - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
-    - [Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw) 
-    - [The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM)
-    - [Learning From Games and Puzzles](https://www.youtube.com/watch?v=lOWeCyOvRGk)
-
-- David Beazley
-    - [Modules and Packages](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
-    - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
-    - [Reinventing the Parser Generator](https://www.youtube.com/watch?v=zJ9z6Ge-vXs)
-    
-- James Powell
-    - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4)
-    - [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
-    - [Building Web-based Analysis & Simulation Platforms](https://www.youtube.com/watch?v=eEXKIp8h0T0)
-    - [Generators Will Free Your Mind](https://www.youtube.com/watch?v=RdhoN4VVqq8)
-    - [More About Generators](https://www.youtube.com/watch?v=m6asOJmfGpY)
-    - [Does Code Quality Really Matter](https://www.youtube.com/watch?v=QuTmLeWL3C0)
-    - [Top to down, left to right (Surprise talk)](https://www.youtube.com/watch?v=BRn6UCw35og)
-    - [Advanced Metaphors in Coding with Python](https://www.youtube.com/watch?v=R2ipPgrWypI)
-    - [Design Principles](https://www.youtube.com/watch?v=bh8QVDaroYE)
-    - [I Just Inherited 50,000 Lines of Code! What Now? — A Practical Guide](https://www.youtube.com/watch?v=mr2SE_drU5o)
-    - [Python and Johnny Cash](https://www.youtube.com/watch?v=L3j2qw9XZCc)
-    - [CPython Meanderings](https://www.youtube.com/watch?v=2O7yj-Nh6AY) 
-  
-- Joel Grus
-    - [Fizz Buzz in Tensorflow](https://www.youtube.com/watch?v=BgBrYpihvLY)
-    - [Learning Data Science Using Functional Python](https://www.youtube.com/watch?v=ThS4juptJjQ)
-
-- Sebastian Witowski
-    - [Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI) 
-    - [Wait, IPython can do that?!](https://www.youtube.com/watch?v=3i6db5zX3Rw)
-    
-    
-- William Cox
-
-- Martin Görner
-    - [Fun with TPUs]( https://www.youtube.com/watch?v=NIF6u8EAjro) 
-    - [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD](https://www.youtube.com/watch?v=KC4201o83W0)
-    
-- Matt Bachmann
-    - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
-- Alex Chabot-Leclerc
-    - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC)
-- Aileen Nielsen
-    - [Modern Time Series Analysis](https://www.youtube.com/watch?v=v5ijNXvlC5A)
-- Vincent Warmerdam
-    - [Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI)
---->
 
 
 ## Machine Learning and Data Science
@@ -284,11 +229,11 @@ for easy use in common text editors. Read more and download plugins at <https://
 
 ## Thanks
 
-Thank you all the speakers for teaching us.
+Thank you all the speakers at different conferences for teaching us.
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the 
-[CC License](https://github.com/acharles7/python-videos/blob/master/LICENSE.md).
+Code and documentation copyright 2020 the authors. This repository released under the 
+[MIT License](https://github.com/acharles7/python-videos/blob/master/LICENSE).
 
 Happy Learning
