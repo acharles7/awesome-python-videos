@@ -46,7 +46,7 @@
 
 ## Most Favourite
 
-Innformative
+Informative
 
 - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
@@ -273,7 +273,7 @@ Please read through our [contributing guidelines](https://github.com/acharles7/p
 Included are directions for opening issues, coding standards, and notes on development.
 
 Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by 
-[Main author](https://github.com/acharles7).
+[Mark Otto](https://github.com/mdo).
 
 Editor preferences are available in the [editor config](https://github.com/acharles7/python-videos/blob/master/.editorconfig) 
 for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
