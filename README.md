@@ -162,6 +162,7 @@ Some of the best videos from conference
 
 - SciPy 2020
     - [GPU-Accelerated Data Analytics in Python](https://www.youtube.com/watch?v=RniE3v8cTWs) by Joe Eaton
+    - [Learning from Evolving Data Streams](https://www.youtube.com/watch?v=sw85SCv847Y) by Jacob Montiel
 
 - SciPy 2019
     - [Bayesian Statistics Made Simple](https://www.youtube.com/watch?v=-X0BiV9n_fQ) by Allen Downey
