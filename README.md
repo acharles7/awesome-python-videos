@@ -160,6 +160,9 @@ Some of the best videos from conference
 
 #### [SciPy](https://www.scipy.org/)
 
+- SciPy 2020
+    - [GPU-Accelerated Data Analytics in Python](https://www.youtube.com/watch?v=RniE3v8cTWs) by Joe Eaton
+
 - SciPy 2019
     - [Bayesian Statistics Made Simple](https://www.youtube.com/watch?v=-X0BiV9n_fQ) by Allen Downey
     - [Introduction to Python](https://www.youtube.com/watch?v=6KM8HOQi5Xk) by Matt Davis
