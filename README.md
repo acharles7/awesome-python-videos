@@ -102,6 +102,7 @@ Some of the best videos from conference
     - [A gentle introduction to Pandas timeseries and Seaborn](https://www.youtube.com/watch?v=8upGdZMlkYM) by Ian Ozsvald
     - [Stars, Planets, and Python](https://www.youtube.com/watch?v=6KvszWniMvo) by Sara Seager
     - [A/B Testing in Python](https://www.youtube.com/watch?v=r6Z8FyCJ1g8) by Raul Maldonado
+    - [Dealing With Imbalanced Classes in Machine Learning](https://www.youtube.com/watch?v=6M2d2n-QXCc) by Aditya Lahiri
     
 - PyData 2018
     - [I Just Inherited 50,000 Lines of Code! What Now? — A Practical Guide](https://www.youtube.com/watch?v=mr2SE_drU5o) by James Powell
