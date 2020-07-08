@@ -69,6 +69,7 @@ Some of the best videos from conference
     - [A careful walk through probability distributions, using Python](https://www.youtube.com/watch?v=G7SIcvWrAKs) by Eric J. Ma
 
 - PyCon 2019
+    - [Design Patterns in Python for the Untrained Eye](https://www.youtube.com/watch?v=o1FZ_Bd4DSM) by Ariel Ortiz
     - [Type hinting (and mypy)](https://www.youtube.com/watch?v=hTrjTAPnA_k) by Bernat Gabor
     
 - PyCon 2018
