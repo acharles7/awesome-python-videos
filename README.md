@@ -73,6 +73,7 @@ Some of the best videos from conference
     - [Design Patterns in Python for the Untrained Eye](https://www.youtube.com/watch?v=o1FZ_Bd4DSM) by Ariel Ortiz
     - [Type hinting (and mypy)](https://www.youtube.com/watch?v=hTrjTAPnA_k) by Bernat Gabor
     - [PEP 572: The Walrus Operator](https://www.youtube.com/watch?v=6uAvHOKofws) by Dustin Ingram
+    - [Thinking like a Panda: Everything you need to know to use pandas the right way](https://www.youtube.com/watch?v=ObUcgEO4N8w) by Hannah Stepanek
     
 - PyCon 2018
     - [Python Oddities Explained](https://www.youtube.com/watch?v=4MCT4WLf7Ac) by Trey Hunner
