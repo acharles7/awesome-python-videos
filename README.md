@@ -50,8 +50,6 @@ Informative
 
 ## Python Conferences
 
-Some of the best videos from conference
-
 #### [PyCon](https://pycon.org/)
 
 - PyCon 2020
