@@ -27,6 +27,8 @@
 - [News](#news)
 - [Most Favourite](#most-favourite)
 - [Python Conferences](#python-conferences)
+    - [PyCon](#pycon)
+    - [PyData](#pydata)
 - [Machine Learning and Data Science](#machine-learning-and-data-science)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
