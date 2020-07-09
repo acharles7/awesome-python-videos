@@ -142,7 +142,10 @@ Informative
 #### [PyBay](https://pybay.com/)
 
 - PyBay 2019
-    -  [The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM) by Raymond Hettinger
+    - [The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM) by Raymond Hettinger
+    - [Perceiving Python Programming Paradigms](https://www.youtube.com/watch?v=Gm72cIo9_58) by Jigyasa Grover
+    - [Patterns for Clean API Design](https://www.youtube.com/watch?v=9rKx-8bj-R0) by Paul Ganssle
+    - [What's Coming in 3 8 Assignment Expressions & More!](https://www.youtube.com/watch?v=OtdQN24Z5MA) by Adam Forsyth 
 
 - PyBay 2018
     - [Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw) by Raymond Hettinger
