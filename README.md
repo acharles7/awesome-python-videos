@@ -4,8 +4,11 @@
   <a href="https://python.org/">
     <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="background: #fff;" alt="Logo">
   </a>
+</p>
+
+<p align="center">
   <a href="https://python.org/">
-    <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Almost-Black-Logo.wine.svg" style="background: #fff;" alt="Logo">
+    <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Almost-Black-Logo.wine.svg" style="background: #fff;" alt="Logo" width="100" height="100">
   </a>
 </p>
 
