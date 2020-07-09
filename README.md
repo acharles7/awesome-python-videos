@@ -215,16 +215,12 @@ Informative
 
 
 ## Contributing
-
 Please read through our [contributing guidelines](https://github.com/acharles7/python-videos/blob/master/CONTRIBUTING.md). 
 Included are directions for opening issues, coding standards, and notes on development.
 
-Editor preferences are available in the [editor config](https://github.com/acharles7/python-videos/blob/master/.editorconfig) 
-for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
 ## Creator
-If you have any question about this opinionated list, do not hesitate to contact me [@charlespatel](https://twitter.com/charlespatel) on Twitter or open an issue on GitHub.
 - <https://github.com/acharles7>
+If you have any question about this opinionated list, do not hesitate to contact me [@charlespatel](https://twitter.com/charlespatel) on Twitter or open an issue on GitHub.
 
 ## Thanks
 Thank you all the speakers at different conferences for teaching us.
