@@ -9,22 +9,16 @@ Please feel free to contribute to this project and be a part of this. Anything f
 ### Commits
 
 * Write clear meaningful git commit messages (Do read about [good commit messages](http://chris.beams.io/posts/git-commit/))
-
 * Make sure your PR's description contains GitHub's special numeric reference (If any) to the related issue.
-
 * While adding questions, please make sure that you add only a single new question per PR as it becomes easy to review and maintain many PRs.
-
-* When you make minor changes to a PR of yours, make sure you squash your commits afterwards so that you don't have an absurd number of commits for a single PR. (Learn how to [squash commits](https://davidwalsh.name/squash-commits-git))
 
 ### Issues
 
-Feel free to open up any issue in the repository, whether it is about improvements or bug fixes or documentation. You can also use any label you want to associate with the issue. Please provide a clear description of the issue while filing it :smiley:
+* Feel free to open up any issue in the repository, whether it is about link broken,typo, improvements, bug fixes or documentation. You can also use any label you want to associate with the issue. Please provide a clear description of the issue while filing it :smiley:
 
 ### Questions
 
-While there are infinite number of python videos, it is impossible to collect all of them here. So please add only those questions that are either unique or informative or have some mind blowing tips or tricks. Also, try not to file a PR for a question which is already present in the repo. Interesting questions and implementations are always welcomed :wink:
-
-For filing a PR for a new question, please open a issue first for the same and then reference it in the PR or you . For example, let's say you want to add a new question called "find max element in array". So first head over to the issues tab and create a new issue called "New question: find max element in array". Then if you want to work on it, please mention it in the description. After you are done writing the code and ready to file a PR, refer to the issue number in the PR description. Let's say the issue number was #23. So in the PR description, it should be "Fixes #23". That's it! :smiley:
+* While there are infinite number of python videos, it is impossible to collect all of them here. So please add only those questions that are either unique or informative or have some mind blowing tips or tricks from python conferences. Also, try not to file a PR for a question which is already present in the repo. Interesting questions and implementations are always welcomed :wink:
 
 * Ask yourself "Is the link interesting enough that someone will really love it?" or "Is it some common or amazing thing people don't have enough knowledge about?". If yes to any of them, then sure, quickly file the PR :wink:
 
