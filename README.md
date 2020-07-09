@@ -31,7 +31,6 @@
 - [News](#news)
 - [Most Favourite](#most-favourite)
 - [Python Conferences](#python-conferences)
-- [Python Experts](#python-experts)
 - [Machine Learning and Data Science](#machine-learning-and-data-science)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
