@@ -52,7 +52,7 @@ Informative
 
 #### [PyCon](https://pycon.org/)
 
-- PyCon 2020
+- [PyCon 2020](https://us.pycon.org/2020/about/)
     - [Introduction to Decorators: Power Up Your Python Code](https://www.youtube.com/watch?v=T8CQwGIsrx4) by Geir Arne Hjelle
     - [Python Concurrency: from beginner to pro](https://www.youtube.com/watch?v=18B1pznaU1o) by Santiago Basulto
     - [Migration from Python 2 to 3](https://www.youtube.com/watch?v=JgIgEjASOlk) by Mike Müller
