@@ -2,7 +2,7 @@
 
 This is a project that is for the community and its true essence is only possible when it is community driven.
 
-Please feel free to contribute to this project and be a part of this. Anything from raising issues to adding new features or even a typo in documentations, all are welcome. Please report issues [here](https://github.com/acharles7/python-videos/issues/new). It is also recommended to go through the Contributions Best Practices below to help organize contributions :smiley:
+Please feel free to contribute to this project and be a part of this. Anything from raising issues to adding new features or even a typo in documentations, all are welcome. Please report issues [here](https://github.com/acharles7/awesome-python-videos/issues/new). It is also recommended to go through the Contributions Best Practices below to help organize contributions :smiley:
 
 ## Contributions Best Practices
 
@@ -28,16 +28,16 @@ You can add any videos to the repo as long as it is related to python conference
 
 0. Firstly, fork the repo to your GitHub account. Just to get familiar with some terms, this will be the `origin`.
 
-- upstream: https://github.com/acharles7/python-videos 
-- origin:   https://github.com/your-username/python-videos
+- upstream: https://github.com/acharles7/awesome-python-videos
+- origin:   https://github.com/your-username/awesome-python-videos
 
 You will be making all your changes to origin and then file a PR to upstream from there.
 
 1. Make sure to make a clone of the repository and add upstream.
 
 ```bash
-$ git clone https://github.com/acharles7/python-videos.git
-$ git remote add upstream https://github.com/acharles7/python-videos.git
+$ git clone https://github.com/acharles7/awesome-python-videos.git
+$ git remote add upstream https://github.com/acharles7/awesome-python-videos.git
 ```
 
 2. Now `cd` into the directory and create a new branch for the issue. Let's call the branch `new-video`
