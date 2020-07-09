@@ -214,34 +214,18 @@ Informative
 - [Deploying scikit learn Models in Production](https://www.youtube.com/watch?v=AwjeRg1u5VI) by Rajat Arya
 
 
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/acharles7/python-videos/blob/master/CONTRIBUTING.md) 
-and search for existing and closed issues. If your problem or idea is not addressed yet, 
-[please open a new issue](https://github.com/acharles7/python-videos/issues/new).
-
 ## Contributing
 
 Please read through our [contributing guidelines](https://github.com/acharles7/python-videos/blob/master/CONTRIBUTING.md). 
 Included are directions for opening issues, coding standards, and notes on development.
 
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by 
-[Mark Otto](https://github.com/mdo).
-
 Editor preferences are available in the [editor config](https://github.com/acharles7/python-videos/blob/master/.editorconfig) 
 for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
-## Creators
-
+## Creator
+If you have any question about this opinionated list, do not hesitate to contact me [@charlespatel](https://twitter.com/charlespatel) on Twitter or open an issue on GitHub.
 - <https://github.com/acharles7>
 
 ## Thanks
-
 Thank you all the speakers at different conferences for teaching us.
-
-## Copyright and license
-
-Code and documentation copyright 2020 the authors. This repository released under the 
-[MIT License](https://github.com/acharles7/python-videos/blob/master/LICENSE).
-
 Happy Learning
