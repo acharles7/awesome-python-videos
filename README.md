@@ -33,11 +33,9 @@
     - [EuroPython](#europython)
     - [Meetups](#meetups)
 - [Machine Learning and Data Science](#machine-learning-and-data-science)
-- [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
-- [Creators](#creators)
+- [Creator](#creator)
 - [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 ---
 ## Most Favourite
@@ -45,6 +43,7 @@
 Informative
 
 - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
+- [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8)
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
 - [How to become a Data Scientist in 6 months](https://www.youtube.com/watch?v=rIofV14c0tc)
 
