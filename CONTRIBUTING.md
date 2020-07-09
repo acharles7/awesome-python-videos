@@ -22,23 +22,15 @@ Feel free to open up any issue in the repository, whether it is about improvemen
 
 ### Questions
 
-While there are infinite number of data structure and algorithm questions, it is impossible to collect all of them here. So please add only those questions that are either unique or tricky or have some mind blowing approach to solve them. Also, try not to file a PR for a question which is already present in the repo. Interesting questions and implementations are always welcomed :wink:
+While there are infinite number of python videos, it is impossible to collect all of them here. So please add only those questions that are either unique or informative or have some mind blowing tips or tricks. Also, try not to file a PR for a question which is already present in the repo. Interesting questions and implementations are always welcomed :wink:
 
-For filing a PR for a new question, please open a issue first for the same and then reference it in the PR. For example, let's say you want to add a new question called "find max element in array". So first head over to the issues tab and create a new issue called "New question: find max element in array". Then if you want to work on it, please mention it in the description. After you are done writing the code and ready to file a PR, refer to the issue number in the PR description. Let's say the issue number was #23. So in the PR description, it should be "Fixes #23". That's it! :smiley:
+For filing a PR for a new question, please open a issue first for the same and then reference it in the PR or you . For example, let's say you want to add a new question called "find max element in array". So first head over to the issues tab and create a new issue called "New question: find max element in array". Then if you want to work on it, please mention it in the description. After you are done writing the code and ready to file a PR, refer to the issue number in the PR description. Let's say the issue number was #23. So in the PR description, it should be "Fixes #23". That's it! :smiley:
 
-### Bookmarks
-
-The Bookmarks directory is for storing awesome links to articles, videos, slides, talks, etc that are interesting and can help in increasing knowledge for a specific topic. There has been many PRs for adding new links in Bookmarks and most of them referred to either a whole book or DS Algo MOOCs, please refrain from adding them. Here are some points that you must consider before contributing to Bookmarks -
-
-* Don't add a link to a MOOC or course (like DS Algo MIT lectures)
-
-* Ask yourself "Is the link interesting enough that someone will really love it?" or "Is it something that an interviewer might ask in the interview to test you?" or "Is it some common or amazing thing people don't have enough knowledge about?". If yes to any of them, then sure, quickly file the PR :wink:
-
-* If an article has more than one part, be sure to refer to the first only in the PR.
+* Ask yourself "Is the link interesting enough that someone will really love it?" or "Is it some common or amazing thing people don't have enough knowledge about?". If yes to any of them, then sure, quickly file the PR :wink:
 
 ## How To Contribute?
 
-You can add anything to the repo as long as it is related to programming and increasing knowledge :smiley:
+You can add any videos to the repo as long as it is related to python conferences :smiley:
 
 0. Firstly, fork the repo to your GitHub account. Just to get familiar with some terms, this will be the `origin`.
 
