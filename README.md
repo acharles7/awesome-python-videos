@@ -109,6 +109,7 @@ Informative
     - [Unit Testing for Data Scientists](https://www.youtube.com/watch?v=Da-FL_1i6ps) by Hanna Torrence
     - [Cleaning and Tidying Data in Pandas](https://www.youtube.com/watch?v=iYie42M1ZyU) by Daniel Chen
     - [Train, Evaluate, Repeat: Building a Credit Card Fraud Detection System](https://www.youtube.com/watch?v=rHSpab1Wi9k) by Leela Senthil Nathan
+    - [Using Simpson’s Paradox to Discover Interesting Patterns in](https://www.youtube.com/watch?v=Hud8pMbup78) by Nazanin Alipourfard, Peter Fennell
     
 - PyData 2017
     - [Applied Data Science](https://www.youtube.com/watch?v=7glVO4juXl0) by Giovanni Lanzani
