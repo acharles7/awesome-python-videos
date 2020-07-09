@@ -1,4 +1,4 @@
-# Python Videos
+# Awesome Python Videos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
   <a href="https://python.org/">
@@ -24,11 +24,14 @@
 
 
 ## Table of contents
-- [News](#news)
 - [Most Favourite](#most-favourite)
 - [Python Conferences](#python-conferences)
     - [PyCon](#pycon)
     - [PyData](#pydata)
+    - [PyBay](#pybay)
+    - [SciPy](#scipy)
+    - [EuroPython](#europython)
+    - [Meetups](#meetups)
 - [Machine Learning and Data Science](#machine-learning-and-data-science)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
@@ -36,11 +39,7 @@
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
-
-## News
-
-- Latest python News
-
+---
 ## Most Favourite
 
 Informative
