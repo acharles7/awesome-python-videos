@@ -77,7 +77,7 @@ Informative
 - [PyCon 2017](https://us.pycon.org/2017/about/)
     - [A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw) by Gregory Saunders
     
-- PyCon 2016
+- [PyCon 2016](https://us.pycon.org/2016/about/)
     - [Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0) by Raymond Hettinger 
     - [Refactoring Python: Why and how to restructure your code](https://www.youtube.com/watch?v=D_6ybDcU5gc) by Brett Slatkin
     
