@@ -61,7 +61,7 @@ Informative
     - [Why is Python slow?](https://www.youtube.com/watch?v=I4nkgJdVZFA) by Anthony Shaw
     - [A careful walk through probability distributions, using Python](https://www.youtube.com/watch?v=G7SIcvWrAKs) by Eric J. Ma
 
-- PyCon 2019
+- [PyCon 2019](https://us.pycon.org/2019/about/)
     - [Practical decorators](https://www.youtube.com/watch?v=MjHpMCIvwsY) by Reuven M. Lerner
     - [Design Patterns in Python for the Untrained Eye](https://www.youtube.com/watch?v=o1FZ_Bd4DSM) by Ariel Ortiz
     - [Type hinting (and mypy)](https://www.youtube.com/watch?v=hTrjTAPnA_k) by Bernat Gabor
