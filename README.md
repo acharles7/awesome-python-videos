@@ -90,7 +90,7 @@ Informative
     
 #### [PyData](https://pydata.org/)
     
-- PyData 2019
+- [PyData 2019](https://pydata.org/london2019/)
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4) by James Powell
     - [Customizing JupyterLab using extensions](https://www.youtube.com/watch?v=PT9UIvLWUI0) by Alex Bozarth, Luciano Resende
     - [ADTK: An open-source Python toolkit for anomaly detection in...](https://www.youtube.com/watch?v=im2kyhNPU8c) by Tailai Wen
