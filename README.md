@@ -46,6 +46,7 @@ Informative
 - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8)
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
 - [How to become a Data Scientist in 6 months](https://www.youtube.com/watch?v=rIofV14c0tc)
+- [High Performance Data Processing in Python](https://www.youtube.com/watch?v=NoJr08FNQeg)
 
 
 ## Python Conferences
@@ -110,6 +111,7 @@ Informative
     - [Cleaning and Tidying Data in Pandas](https://www.youtube.com/watch?v=iYie42M1ZyU) by Daniel Chen
     - [Train, Evaluate, Repeat: Building a Credit Card Fraud Detection System](https://www.youtube.com/watch?v=rHSpab1Wi9k) by Leela Senthil Nathan
     - [Using Simpson’s Paradox to Discover Interesting Patterns in](https://www.youtube.com/watch?v=Hud8pMbup78) by Nazanin Alipourfard, Peter Fennell
+    - [High Performance Data Processing in Python](https://www.youtube.com/watch?v=NoJr08FNQeg) by Donald Whyte
     
 - PyData 2017
     - [Applied Data Science](https://www.youtube.com/watch?v=7glVO4juXl0) by Giovanni Lanzani
