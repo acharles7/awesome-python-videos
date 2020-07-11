@@ -68,13 +68,13 @@ Informative
     - [PEP 572: The Walrus Operator](https://www.youtube.com/watch?v=6uAvHOKofws) by Dustin Ingram
     - [Thinking like a Panda: Everything you need to know to use pandas the right way](https://www.youtube.com/watch?v=ObUcgEO4N8w) by Hannah Stepanek
     
-- PyCon 2018
+- [PyCon 2018](https://us.pycon.org/2018/about/)
     - [Python Oddities Explained](https://www.youtube.com/watch?v=4MCT4WLf7Ac) by Trey Hunner
     - [Reinventing the Parser Generator](https://www.youtube.com/watch?v=zJ9z6Ge-vXs) by David Beazley
     - [Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw) by Raymond Hettinger
     - [Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8) by Carl Meyer
 
-- PyCon 2017
+- [PyCon 2017](https://us.pycon.org/2017/about/)
     - [A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw) by Gregory Saunders
     
 - PyCon 2016
