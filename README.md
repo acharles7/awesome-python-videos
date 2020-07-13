@@ -47,6 +47,7 @@ Informative
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
 - [How to become a Data Scientist in 6 months](https://www.youtube.com/watch?v=rIofV14c0tc)
 - [High Performance Data Processing in Python](https://www.youtube.com/watch?v=NoJr08FNQeg)
+- [Magic Wormhole- Simple Secure File Transfer](https://www.youtube.com/watch?v=oFrTqQw0_3c)
 
 
 ## Python Conferences
@@ -81,6 +82,7 @@ Informative
 - [PyCon 2016](https://us.pycon.org/2016/about/)
     - [Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0) by Raymond Hettinger 
     - [Refactoring Python: Why and how to restructure your code](https://www.youtube.com/watch?v=D_6ybDcU5gc) by Brett Slatkin
+    - [Magic Wormhole- Simple Secure File Transfer](https://www.youtube.com/watch?v=oFrTqQw0_3c) By Brian Warner
     
 - PyCon 2015
     - [Type Hints](https://www.youtube.com/watch?v=2wDvzy6Hgxg) by Guido van Rossum
