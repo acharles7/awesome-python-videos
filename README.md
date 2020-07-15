@@ -201,6 +201,9 @@ Informative
 - SF Python
     - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8) by Raymond Hettinger
     - [Learning From Games and Puzzles](https://www.youtube.com/watch?v=lOWeCyOvRGk) by Raymond Hettinger
+    
+- PyOhio
+    - [Natural Language Processing in Python](https://www.youtube.com/watch?v=xvqsFTUsOmc) by Alice Zhao
 
 
 ## Machine Learning and Data Science
