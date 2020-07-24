@@ -201,6 +201,7 @@ Informative
 - SF Python
     - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8) by Raymond Hettinger
     - [Learning From Games and Puzzles](https://www.youtube.com/watch?v=lOWeCyOvRGk) by Raymond Hettinger
+    - [Docker for Data Science](https://www.youtube.com/watch?v=tuYgEv40s7A) by Aly Sivji
     
 - PyOhio
     - [Natural Language Processing in Python](https://www.youtube.com/watch?v=xvqsFTUsOmc) by Alice Zhao
