@@ -114,6 +114,7 @@ Informative
     - [Train, Evaluate, Repeat: Building a Credit Card Fraud Detection System](https://www.youtube.com/watch?v=rHSpab1Wi9k) by Leela Senthil Nathan
     - [Using Simpson’s Paradox to Discover Interesting Patterns in](https://www.youtube.com/watch?v=Hud8pMbup78) by Nazanin Alipourfard, Peter Fennell
     - [High Performance Data Processing in Python](https://www.youtube.com/watch?v=NoJr08FNQeg) by Donald Whyte
+    - [Making Computation Easier with Cool Numpy Tricks](https://www.youtube.com/watch?v=poD8ud4MxOY) by Kirit Thadaka
     
 - PyData 2017
     - [Applied Data Science](https://www.youtube.com/watch?v=7glVO4juXl0) by Giovanni Lanzani
