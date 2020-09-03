@@ -91,6 +91,8 @@ Informative
     - [Modules and Packages](https://www.youtube.com/watch?v=0oTh1CXRaQ0) by David Beazley
     
 #### [PyData](https://pydata.org/)
+- [PyData 2020](#)
+    - [Furious & Fast Python 7: Writing Fast Python Code](https://www.youtube.com/watch?v=Ix04KpZiUA8) by James Powell
     
 - [PyData 2019](https://pydata.org/london2019/)
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4) by James Powell
