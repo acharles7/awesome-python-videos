@@ -94,6 +94,7 @@ Informative
 - [PyData 2020](#)
     - [Furious & Fast Python 7: Writing Fast Python Code](https://www.youtube.com/watch?v=Ix04KpZiUA8) by James Powell
     - [Making Pandas Fly](https://www.youtube.com/watch?v=N4pj3CS857c) by Ian Ozsvald
+    - [Pandas and friend](https://www.youtube.com/watch?v=PQPv_4rOWe4) by Marc Garcia
     
 - [PyData 2019](https://pydata.org/london2019/)
     - [Objectionable Content](https://www.youtube.com/watch?v=1SHi1kriJI4) by James Powell
