@@ -38,11 +38,12 @@
 - [Thanks](#thanks)
 
 ---
-## Most Favourite
+## Favourites
 
 Informative
 
 - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
+- [Object Oriented Programming from scratch (four times)](https://www.youtube.com/watch?v=8moWQ1561FY)
 - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8)
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=RKHMnevITF0)
 - [How to become a Data Scientist in 6 months](https://www.youtube.com/watch?v=rIofV14c0tc)
@@ -55,6 +56,7 @@ Informative
 #### [PyCon](https://pycon.org/)
 
 - [PyCon 2020](https://us.pycon.org/2020/about/)
+    - [Object Oriented Programming from scratch (four times)](https://www.youtube.com/watch?v=8moWQ1561FY) by Raymond Hettinger
     - [Introduction to Decorators: Power Up Your Python Code](https://www.youtube.com/watch?v=T8CQwGIsrx4) by Geir Arne Hjelle
     - [Python Concurrency: from beginner to pro](https://www.youtube.com/watch?v=18B1pznaU1o) by Santiago Basulto
     - [Migration from Python 2 to 3](https://www.youtube.com/watch?v=JgIgEjASOlk) by Mike Müller
