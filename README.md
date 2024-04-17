@@ -42,6 +42,7 @@
 
 Informative
 
+- [Build Your Own Async (David Beazley)](https://www.youtube.com/watch?v=Y4Gt3Xjd7G8)
 - [Structuring Your First Python Project](https://www.youtube.com/watch?v=OSGv2VnC0go)
 - [Object Oriented Programming from scratch (four times)](https://www.youtube.com/watch?v=8moWQ1561FY)
 - [Modern Dictionaries](https://www.youtube.com/watch?v=p33CVV29OG8)
